@@ -1,0 +1,25 @@
+Color,Shape,Speed,Prototype
+blue,saw,fast,A
+orange,saw ,fast,A
+red,sine,fast,A
+blue,sine,slow,A
+red,saw,fast,A
+orange,sine,fast,A
+blue,saw,slow,A
+blue,sine ,fast,A
+red,sine,slow,A
+orange,saw,fast,A
+orange,sine,slow,A
+red,sine,slow,A
+red,sine,slow,B
+orange,sine,slow,B
+orange,saw,fast,B
+red,sine,slow,B
+blue,sine ,fast,B
+blue,saw,slow,B
+orange,sine,fast,B
+red,saw,fast,B
+blue,sine,slow,B
+red,sine,fast,B
+orange,saw ,fast,B
+blue,saw,fast,B

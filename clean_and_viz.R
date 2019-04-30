@@ -7,7 +7,7 @@ library(sjPlot)
 
 
 #public key access via googlesheets
-key <- extract_key_from_url("https://docs.google.com/spreadsheets/d/1oMhh2KYhjVSSbOgXHv0DEU_xi9wMyc3aMkDO-dU7ZmE/edit?usp=sharing")
+key <- extract_key_from_url("https://docs.google.com/spreadsheets/d/1S4NRVCIxXWMBXBbul0tq9HFW8A7cTCEF98Ve6cRQ03Q/edit#gid=1547183528")
 
 
 #get data sheet into dataframe
